@@ -1,2 +1,2 @@
 # HomeWorks
-All assignments for the first and second semesters
+All assignments for the first semesters
